@@ -1,0 +1,13 @@
+line {
+  stroke: var(--stroke);
+  transition-property: stroke, stroke-dashoffset;
+  transition-duration: 1s;
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition-delay: var(--delay);
+  stroke-width: 2px;
+  stroke-linecap: round;
+}
+
+line.active {
+  stroke: var(--stroke-active);
+}
