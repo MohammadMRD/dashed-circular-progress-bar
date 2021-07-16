@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dashed-circular-progress-bar/static/css/main.43ea18ea.chunk.css",
+    "main.js": "/dashed-circular-progress-bar/static/js/main.4628e311.chunk.js",
+    "main.js.map": "/dashed-circular-progress-bar/static/js/main.4628e311.chunk.js.map",
+    "runtime-main.js": "/dashed-circular-progress-bar/static/js/runtime-main.baa2e68d.js",
+    "runtime-main.js.map": "/dashed-circular-progress-bar/static/js/runtime-main.baa2e68d.js.map",
+    "static/js/2.55d443dd.chunk.js": "/dashed-circular-progress-bar/static/js/2.55d443dd.chunk.js",
+    "static/js/2.55d443dd.chunk.js.map": "/dashed-circular-progress-bar/static/js/2.55d443dd.chunk.js.map",
+    "index.html": "/dashed-circular-progress-bar/index.html",
+    "static/css/main.43ea18ea.chunk.css.map": "/dashed-circular-progress-bar/static/css/main.43ea18ea.chunk.css.map",
+    "static/js/2.55d443dd.chunk.js.LICENSE.txt": "/dashed-circular-progress-bar/static/js/2.55d443dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa2e68d.js",
+    "static/js/2.55d443dd.chunk.js",
+    "static/css/main.43ea18ea.chunk.css",
+    "static/js/main.4628e311.chunk.js"
+  ]
+}
